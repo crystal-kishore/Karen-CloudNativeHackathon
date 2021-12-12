@@ -16,6 +16,9 @@ Send Hi for the introduction
 Send Join sun-determine to activate the bot.
 Send valid URL to summarise the webPage.
 <hr>
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
 <h3>How Summarisation works:</h3>
 I used punkt module from nltk package , its an opensource library we can use it by importing punkt module from nltk
 Link for punkt module :
