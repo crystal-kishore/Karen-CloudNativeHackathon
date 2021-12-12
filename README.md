@@ -16,13 +16,13 @@ Send Hi for the introduction
 Send Join sun-determine to activate the bot.
 Send valid URL to summarise the webPage.
 <hr>
-<img src="1.png">
-<img src="2.png">
-<img src="3.png">
 <h3>How Summarisation works:</h3>
 I used punkt module from nltk package , its an opensource library we can use it by importing punkt module from nltk
 Link for punkt module :
 <a href="https://github.com/nltk/nltk/blob/develop/nltk/tokenize/punkt.py">Punkt library</a>
 <h3>I also made a blog on Google Dev Library : under verification</h3>
 <img src="googlelibrary.jpg">
-
+<h3>Images</h3>
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
